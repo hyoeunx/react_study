@@ -7,7 +7,7 @@ const comments = [
         comment: "안녕하세요, 효은입니다",
     },
     {
-        name: "윤동현",
+        name: "ㅇㅇㅇ",
         comment: "우와아아앙~",
     },
     {

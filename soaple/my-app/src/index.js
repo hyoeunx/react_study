@@ -10,7 +10,7 @@ import CommentList from './chapter_05/CommentList';
 
 ReactDOM.render(
   <React.StrictMode>
-    <CommentList />
+    <Clock />
   </React.StrictMode>,
   document.getElementById('root')
 );
